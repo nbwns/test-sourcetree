@@ -1,4 +1,6 @@
+let's test again
 let's test rebasing!
 this is a new file
 new text is added
-in a new branchand in master
+in a new branch
+and in master
