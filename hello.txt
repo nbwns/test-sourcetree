@@ -1,7 +1,7 @@
 let's test again
 let's test rebasing!
 this is a new file
-modif dans master
+
 new text is added
 in a new branch
 and in master
